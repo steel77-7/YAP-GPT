@@ -26,7 +26,7 @@ module.exports = {
                 history: [
                   {
                     role: "user",
-                    parts: [{ text: "You are a bot in a discord server " }],
+                    parts: [{ text: "You are a bot in a discord server ,keep your responses short and be a yapper" }],
                   },
                   {
                     role: "model",
